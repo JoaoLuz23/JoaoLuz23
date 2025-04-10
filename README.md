@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Bem+Vindo+ao+perfil!!" alt="Typing SVG">
+  </a>
+</div>
 
-<!--
-**JoaoLuz23/JoaoLuz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<p align="center">Estudante de Desenvolvolvimento de sistemas pelo SENAI ITU ITALO BOLOGNA. Programador novato com conhecimento em Python. Formado em inglês com nivel C2, totalmente fluente na fala, escrita e leitura.
+  
+#
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+  <p>
+    <h3 align="left">My Stack </h3>
+
+<div align="left">
+   <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </p>
+ 
+<div> 
+ <a href="https://instagram.com/jao.ferreiraa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ <div style="display: inline_block"><br>
+   
+ <div align="center">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=JoaoLuz23&show_icons=true&theme=midnight-purple" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuz23&layout=compact&theme=midnight-purple" />
+</div>
+
