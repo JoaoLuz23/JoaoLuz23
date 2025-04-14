@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&pause=1000&color=69239E&center=true&vCenter=true&random=false&width=524&lines=Bem+Vindo+ao+perfil!!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&pause=1000&color=69239E&center=true&vCenter=true&random=false&width=524&lines=Bem+Vindo+ao+perfil!" alt="Typing SVG">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 
   <p>
-    <h3 align="left">My Stack </h3>
+    <h3 align="left">Minhas experiencias. </h3>
 
 <div align="left">
    <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
