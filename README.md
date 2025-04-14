@@ -20,12 +20,12 @@
    <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
       
-
+#
   
 <div> 
  
 <a href="https://instagram.com/jao.ferreiraa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+#
  <div style="display: inline_block"><br>
    
  <div align="left">
