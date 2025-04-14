@@ -11,7 +11,7 @@
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
- 
+
 
   <p>
     <h3 align="left">My Stack </h3>
@@ -19,16 +19,18 @@
 <div align="left">
    <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
- 
+      
+
+  
 <div> 
  
 <a href="https://instagram.com/jao.ferreiraa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  <div style="display: inline_block"><br>
    
- <div align="center">
+ <div align="left">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=JoaoLuz23&show_icons=true&theme=midnight-purple" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuz23&layout=compact&theme=midnight-purple" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuz23&layout=compact&theme=midnight-purple" />
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
