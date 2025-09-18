@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Desenvolvolvimento de sistemas pelo SENAI ITU ITALO BOLOGNA. Programador novato com conhecimento em Python. Formado em inglês com nivel C2, totalmente fluente na fala, escrita e leitura.
+<p align="center">Estudante de Desenvolvolvimento de sistemas pelo SENAI ITU ITALO BOLOGNA. Formado em inglês com nivel C2, totalmente fluente na fala, escrita e leitura.
   
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
