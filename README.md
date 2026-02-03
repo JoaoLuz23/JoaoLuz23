@@ -36,12 +36,9 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=JoaoLuz23&show_icons=true&theme=midnight-purple" />
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuz23&layout=compact&theme=midnight-purple" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JoaoLuz23/JoaoLuz23/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JoaoLuz23/JoaoLuz23/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/JoaoLuz23/JoaoLuz23/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" style="max-width:100%; width:600px; height:auto;" />
+  </picture>
 
