@@ -84,3 +84,22 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" style="max-width:100%; width:600px; height:auto;" />
   </picture>
 
+<br>
+<br>
+   <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=JoaoLuz23&show_icons=true&bg_color=000000&text_color=ffffff&title_color=69239E&icon_color=69239E&border_color=69239E"
+          height="180"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoLuz23&layout=donut&bg_color=000000&text_color=ffffff&title_color=69239E&border_color=69239E"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+
