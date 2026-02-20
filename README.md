@@ -14,14 +14,57 @@
 
 
   <p>
-    <h3 align="left">Minhas experiencias. </h3>
+    <h3 align="left">Minhas Experiencias. </h3>
 
 <div align="left">
-   <img align="center" alt="LUZ-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LUZ-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-     <img align="" alt="PHP" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img 
+    align="" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+<img 
+    align="" 
+    alt="cplusplus" 
+    title="C"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    />
+  <img 
+    align="" 
+    alt="html" 
+    title="Html"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    />
+ <img 
+    align="" 
+    alt="Css" 
+    title="Css"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+ <img 
+    align="" 
+    alt="PHP" 
+    title="PHP"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    />
+    <img 
+    align="" 
+    alt="Javascript" 
+    title="Javascript"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
 
 
   </p>
